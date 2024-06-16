@@ -1,1 +1,2 @@
 alpine:latest
+nginx:1.27
