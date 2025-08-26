@@ -1,2 +1,1 @@
-kubernetesui/metrics-scraper:v1.0.8
-kubernetesui/dashboard:v2.7.0
+ghcr.io/flannel-io/flannel-cni-plugin:v1.7.1-flannel1
