@@ -1,1 +1,1 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/default-domain
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa
