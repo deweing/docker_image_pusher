@@ -1,4 +1,1 @@
-gcr.io/knative-releases/knative.dev/net-kourier/cmd/kourier
-gcr.io/knative-releases/knative.dev/serving/cmd/webhook
-gcr.io/knative-releases/knative.dev/serving/cmd/controller
-gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler
+docker.io/envoyproxy/envoy:v1.34-latest
