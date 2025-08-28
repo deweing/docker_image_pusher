@@ -1,1 +1,1 @@
-docker.io/envoyproxy/envoy:v1.34-latest
+gcr.io/knative-releases/knative.dev/serving/cmd/default-domain
