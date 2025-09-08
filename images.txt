@@ -1,1 +1,1 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa
+yanwk/comfyui-boot:cpu-20250901
