@@ -1,1 +1,1 @@
-anwk/comfyui-boot:xpu-cn-20250908
+yanwk/comfyui-boot:xpu-cn-20250908
