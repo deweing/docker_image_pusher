@@ -1,1 +1,1 @@
-ghcr.io/xtls/xray-core:latest
+ghcr.io/v2fly/v2ray:latest-extra
